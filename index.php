@@ -26,7 +26,7 @@ $(document).ready(function(){
 	
 	
 	<body>
-	<h1>My ajax crud app</h1>
+	<h1>My ajax crud app is working perfectly</h1>
 	
 	<div id="show">
 	
